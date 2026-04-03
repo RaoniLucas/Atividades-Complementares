@@ -4,6 +4,7 @@
   "description": "Kit de Utilidades para E-commerces",
   "main": "index.js",
   "scripts": {
+    "postinstall": "node ./scripts/setup-env.js",
     "start:dev": "node ./src/index.js"
   },
   "keywords": [],
