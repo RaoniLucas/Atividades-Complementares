@@ -4,7 +4,7 @@
   "description": "Sistema de carrinho de compra baseado na user experience da Shopee",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:dev": "node ./src/index.js"
   },
   "keywords": [],
   "author": "Raoni Lucas",
